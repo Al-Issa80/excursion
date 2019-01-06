@@ -1,1 +1,90 @@
+html, body {
+	font-family: Verdana;
+	margin: 0;
+}
 
+.discover {
+	text-align: center;
+	background-color: black;
+	width: 100%;
+	height: 150px;
+	background-size: cover;
+	padding-top: 2%;
+}
+
+.discover h1 {
+	font-weight: normal;
+	color: white;
+	font-size: 50px;
+	margin: 0;
+	padding: 0;
+}
+
+.discover a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+.video {
+	text-align: center;
+	height: 800px;
+	background-color: black;
+	
+}
+
+.travelGuide {
+	background-color: black;
+	width: 100%;
+	text-align: center;
+}
+
+.travelGuide h1 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+.travelGuide p {
+	color: gray;
+	font-size: 21px;
+}
+
+.travelGuide img {
+	display: block;
+	margin: auto;
+}
+
+#firstImage {
+	margin-bottom: 2%;
+}
+
+#secondImage {
+	padding-bottom: 3%;
+}
+
+.footer {
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	height: 180px;
+}
+
+.footer h1 {
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+	margin: 0;
+	padding: 0;
+}
+
+.footer a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+.footer p {
+	color: gray;
+	text-align: right;
+}
